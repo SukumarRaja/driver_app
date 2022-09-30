@@ -46,6 +46,9 @@ dependencies:
   location: ^4.4.0
   geolocator: ^9.0.2
   connectivity_plus: ^2.3.7
+  firebase_core: ^1.24.0
+  firebase_database: ^9.1.6
+  mqtt_client: ^9.7.2
 
 dev_dependencies:
   flutter_test:

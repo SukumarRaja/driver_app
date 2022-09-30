@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "969651379359",
+    "project_id": "shreemcabs-5d1c4",
+    "storage_bucket": "shreemcabs-5d1c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969651379359:android:6cf678990e8d90a3cd56aa",
+        "android_client_info": {
+          "package_name": "com.hashseven.driver_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969651379359-uni6nj2mn6aposlfgh1o34uhcn2vu9n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hashseven.driver_app",
+            "certificate_hash": "e095df5d60256c6df14d364009064776866826d8"
+          }
+        },
+        {
+          "client_id": "969651379359-ntj5his3gu5jtv92lbh04st85d8emia7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCCGgdlaoACS0z45Wtz5Ykqa_JIKpSzJ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969651379359-ntj5his3gu5jtv92lbh04st85d8emia7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
